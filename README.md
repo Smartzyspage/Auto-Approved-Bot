@@ -91,7 +91,7 @@ You Are Free To Use This Code In Any Of Your Projects, But You Must Include The 
 <a href="https://youtu.be/Af055Eozk9s">Muhammed</a>
 </p>
 <p align="center">
-<a href="https://github.com/PR0FESS0R-99/Auto-Approved-Bot">Orginal Repo</a>
+<a href="https://github.com/Smartzyspage/Auto-Approved-Bot">Orginal Repo</a>
 </p>
 
 
@@ -100,7 +100,7 @@ You Are Free To Use This Code In Any Of Your Projects, But You Must Include The 
 🧑‍💻 𝗗𝗲𝗽𝗹𝗼𝘆 𝗧𝗼 𝗛𝗲𝗿𝗼𝗸𝘂 👨‍💻
 </p>
 <p align="center">
-<a href="https://heroku.com/deploy?template=https://github.com/PR0FESS0R-99/Auto-Approved-Bot"><img src="https://github.com/PR0FESS0R-99/Buttons/blob/Professor-99/heroku/herokudeploy-01.svg" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
+<a href="https://heroku.com/deploy?template=https://github.com/Smartzyspage/Auto-Approved-Bot"><img src="https://github.com/PR0FESS0R-99/Buttons/blob/Professor-99/heroku/herokudeploy-01.svg" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
 </p>
 
 <p align="center">
